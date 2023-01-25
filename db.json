@@ -1,11 +1,329 @@
-{
-  "posts": [
-    {
+[
+  {
+    "id": 1,
+    "name": "int595",
+    "navigation": {
+      "id": "int595",
+      "title": "INT595: Deaf Interpreter",
+      "description": "School of Language, Education, and Culture Department of Interpretation and Translation",
+      "schedule": "08/29 - 12/12/2022",
+      "time": "5:00 - 7:40 PM",
+      "credits": "3 Credits",
+      "contact": {
+        "name": "Anita Harding (she/her/hers)",
+        "email": "Anita.Harding@gallaudet.edu",
+        "location": "HMB 1411",
+        "schedule": "M & W 11:30 am - 1:30 pm",
+        "zoomID": "549.915.7108 (Zoom ID)"
+      }
+    },
+    "introduction_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/Anita+Intro.webm",
+    "course": {
+      "description": "This course is designed for deaf interpreting students, who are interested in becoming a sign language interpreter (deaf interpreter). The course will introduce the basic principles of translation and amalgamate theory and practice. The goal will be to produce and identify literal and dynamically translated target texts. Students will also have the opportunity to learn fundamental linguistics and apply that to their translation work.",
+      "name_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/Anita+Intro.webm"
+    },
+    "books": [
+      {
+        "id": 1,
+        "fields": {
+          "number": 1,
+          "title": "On Translation",
+          "pdf_url": "",
+          "description": "\"On Linguistics Aspects of Translation\" \nBy Roman Jakobson\np.232-239"
+        }
+      },
+      {
+        "id": 2,
+        "fields": {
+          "number": 2,
+          "title": "Mapping Our Course: A Collaborative Venture",
+          "pdf_url": "",
+          "description": "\"Interpreter Discourse: English to ASL Expansion/ASL to English Compression\" \nby S. Lawrence\np. 205-216"
+        }
+      },
+      {
+        "id": 3,
+        "fields": {
+          "number": 3,
+          "title": "Toward a Science of Translating: With Special Reference to Principles and Procedures Involved in Bible Translating",
+          "pdf_url": "",
+          "description": "by E.A. Nida"
+        }
+      }
+    ],
+    "course_SLOs": [
+      {
+        "id": 1,
+        "table_row": [
+          {
+            "id": 1,
+            "video": true,
+            "video_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/SLO+1.webm",
+            "description": ["1. Demonstrate an understanding of factors to consider in creating ASL-English translations."]
+          },
+          {
+            "id": 2,
+            "video": false,
+            "video_url": "",
+            "description": ["1, 2, 5"]
+          },
+          {
+            "id": 3,
+            "video": false,
+            "video_url": "",
+            "description": ["1, 2, 3, 4, 5"]
+          },
+          {
+            "id": 4,
+            "video": true,
+            "video_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/1+SLO+Skill+Develop.webm",
+            "description": [
+              "1. Skill development exercises",
+              "2. Projects",
+              "3. Assignments"
+            ]
+          },
+          {
+            "id": 5,
+            "video": true,
+            "video_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/1+SLO+At+Least+B.webm",
+            "description": ["1. At least B grade in exercises, projects, and assignments."]
+          }
+        ]
+      }
+    ],
+    "accordions": [
+      {
+        "id": 1,
+        "title": "Class Participation and Attendance Rubric",
+        "table_ps": [
+          {
+            "id": 1,
+            "table_row": [
+              {
+                "id": 1,
+                "video": true,
+                "video_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/SLO+1.webm",
+                "description": ["Demonstrate an understanding of factors to consider in creating ASL-English translations."]
+              },
+              {
+                "id": 2,
+                "video": false,
+                "video_url": "",
+                "description": ["1, 2, 5"]
+              },
+              {
+                "id": 3,
+                "video": false,
+                "video_url": "",
+                "description": ["1, 2, 3, 4, 5"]
+              },
+              {
+                "id": 4,
+                "video": true,
+                "video_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/1+SLO+Skill+Develop.webm",
+                "description": ["1. Skill development exercises","2. Projects","3. Assignments"]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "table_row": [
+              {
+                "id": 1,
+                "video": true,
+                "video_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/SLO+1.webm",
+                "description": ["1. Demonstrate an understanding of factors to consider in creating ASL-English translations."]
+              },
+              {
+                "id": 2,
+                "video": false,
+                "video_url": "",
+                "description": ["1, 2, 5"]
+              },
+              {
+                "id": 3,
+                "video": false,
+                "video_url": "",
+                "description": ["1, 2, 3, 4, 5"]
+              },
+              {
+                "id": 4,
+                "video": true,
+                "video_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/1+SLO+Skill+Develop.webm",
+                "description": ["1. Skill development exercises","2. Projects","3. Assignments"]
+              }
+            ]
+          }
+        ],
+        "table_pd": [
+          {
+            "id": 1,
+            "table_row": [
+              {
+                "id": 1,
+                "video": true,
+                "video_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/SLO+1.webm",
+                "description": ["1. Demonstrate an understanding of factors to consider in creating ASL-English translations."]
+              },
+              {
+                "id": 2,
+                "video": false,
+                "video_url": "",
+                "description": ["1, 2, 5"]
+              },
+              {
+                "id": 3,
+                "video": false,
+                "video_url": "",
+                "description": ["1, 2, 3, 4, 5"]
+              },
+              {
+                "id": 4,
+                "video": true,
+                "video_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/1+SLO+Skill+Develop.webm",
+                "description": ["1. Demonstrate an understanding of factors to consider in creating ASL-English translations."]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "table_row": [
+              {
+                "id": 1,
+                "video": true,
+                "video_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/SLO+1.webm",
+                "description": ["1. Demonstrate an understanding of factors to consider in creating ASL-English translations."]
+              },
+              {
+                "id": 2,
+                "video": false,
+                "video_url": "",
+                "description": ["1, 2, 5"]
+              },
+              {
+                "id": 3,
+                "video": false,
+                "video_url": "",
+                "description": ["1, 2, 3, 4, 5"]
+              },
+              {
+                "id": 4,
+                "video": true,
+                "video_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/1+SLO+Skill+Develop.webm",
+                "description": ["1. Demonstrate an understanding of factors to consider in creating ASL-English translations."]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "assignments": [
+      {
+        "id": 1,
+        "title": "Assignment #1",
+        "subtitle": "Agreement Form",
+        "description": " - Sign and submit an agreement form regarding the course plan and the Student Code of Professional Conduct.",
+        "video_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/Required+Materials+.webm"
+      },
+      {
+        "id": 2,
+        "title": "Assignment #2",
+        "subtitle": "Agreement Form",
+        "description": " - Sign and submit an agreement form regarding the course plan and the Student Code of Professional Conduct.",
+        "video_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/Required+Materials+.webm"
+      }
+    ],
+    "assignment_brd": {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+      "video_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/Course+6+Assignments.webm",
+      "table_brd": [
+        {
+          "id": 1,
+          "table_row": [
+            {
+              "id": 1,
+              "video": false,
+              "video_url": "",
+              "description": ["#1"]
+            },
+            {
+              "id": 2,
+              "video": false,
+              "video_url": "",
+              "description": ["Syllabus Contract"]
+            },
+            {
+              "id": 3,
+              "video": false,
+              "video_url": "",
+              "description": ["10%"]
+            },
+            {
+              "id": 4,
+              "video": false,
+              "video_url": "",
+              "description": ["Sept 9th by midnight"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "table_row": [
+            {
+              "id": 1,
+              "video": false,
+              "video_url": "",
+              "description": ["#2"]
+            },
+            {
+              "id": 2,
+              "video": false,
+              "video_url": "",
+              "description": ["Attendance & Participation"]
+            },
+            {
+              "id": 3,
+              "video": false,
+              "video_url": "",
+              "description": ["20%"]
+            },
+            {
+              "id": 4,
+              "video": false,
+              "video_url": "",
+              "description": ["Full Semester"]
+            }
+          ]
+        }
+      ]
+    },
+    "grading_brd": [
+      {
+        "id": "attendance",
+        "label": "Attendance and Participation",
+        "value": 20
+      },
+      {
+        "id": "syllabus",
+        "label": "Syllabus Contract",
+        "value": 10
+      },
+      {
+        "id": "knovio",
+        "label": "Knovio Project",
+        "value": 20
+      },
+      {
+        "id": "goreact",
+        "label": "GoReact Translation 2 & Spatial Map",
+        "value": 20
+      },
+      {
+        "id": "goreact2",
+        "label": "GoReact Translation 1 & Spatial Map",
+        "value": 20
+      }
+    ]
   }
-}
+]
