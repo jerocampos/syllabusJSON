@@ -89,6 +89,33 @@
         "label": "GoReact Translation 1 & Spatial Map",
         "value": 20
       }
+    ],
+    "grading_brd2": [
+      {
+        "id": "attendance",
+        "label": "Attendance and Participation",
+        "value": 20
+      },
+      {
+        "id": "syllabus",
+        "label": "Syllabus Contract",
+        "value": 10
+      },
+      {
+        "id": "knovio",
+        "label": "Knovio Project",
+        "value": 20
+      },
+      {
+        "id": "goreact",
+        "label": "GoReact Translation 2 & Spatial Map",
+        "value": 20
+      },
+      {
+        "id": "goreact2",
+        "label": "GoReact Translation 1 & Spatial Map",
+        "value": 20
+      }
     ]
   }
 
