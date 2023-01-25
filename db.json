@@ -22,35 +22,6 @@
       "description": "This course is designed for deaf interpreting students, who are interested in becoming a sign language interpreter (deaf interpreter). The course will introduce the basic principles of translation and amalgamate theory and practice. The goal will be to produce and identify literal and dynamically translated target texts. Students will also have the opportunity to learn fundamental linguistics and apply that to their translation work.",
       "name_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/Anita+Intro.webm"
     },
-    "books": [
-      {
-        "id": 1,
-        "fields": {
-          "number": 1,
-          "title": "On Translation",
-          "pdf_url": "",
-          "description": "\"On Linguistics Aspects of Translation\" \nBy Roman Jakobson\np.232-239"
-        }
-      },
-      {
-        "id": 2,
-        "fields": {
-          "number": 2,
-          "title": "Mapping Our Course: A Collaborative Venture",
-          "pdf_url": "",
-          "description": "\"Interpreter Discourse: English to ASL Expansion/ASL to English Compression\" \nby S. Lawrence\np. 205-216"
-        }
-      },
-      {
-        "id": 3,
-        "fields": {
-          "number": 3,
-          "title": "Toward a Science of Translating: With Special Reference to Principles and Procedures Involved in Bible Translating",
-          "pdf_url": "",
-          "description": "by E.A. Nida"
-        }
-      }
-    ],
     "course_SLOs": [
       {
         "id": 1,
@@ -92,70 +63,6 @@
         ]
       }
     ],
-    "assignment_brd": {
-      "id": 1,
-      "video_url": "https://gupublic.s3.amazonaws.com/VCTL_webm/Course+6+Assignments.webm",
-      "table_brd": [
-        {
-          "id": 1,
-          "table_row": [
-            {
-              "id": 1,
-              "video": false,
-              "video_url": "",
-              "description": ["#1"]
-            },
-            {
-              "id": 2,
-              "video": false,
-              "video_url": "",
-              "description": ["Syllabus Contract"]
-            },
-            {
-              "id": 3,
-              "video": false,
-              "video_url": "",
-              "description": ["10%"]
-            },
-            {
-              "id": 4,
-              "video": false,
-              "video_url": "",
-              "description": ["Sept 9th by midnight"]
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "table_row": [
-            {
-              "id": 1,
-              "video": false,
-              "video_url": "",
-              "description": ["#2"]
-            },
-            {
-              "id": 2,
-              "video": false,
-              "video_url": "",
-              "description": ["Attendance & Participation"]
-            },
-            {
-              "id": 3,
-              "video": false,
-              "video_url": "",
-              "description": ["20%"]
-            },
-            {
-              "id": 4,
-              "video": false,
-              "video_url": "",
-              "description": ["Full Semester"]
-            }
-          ]
-        }
-      ]
-    },
     "grading_brd": [
       {
         "id": "attendance",
